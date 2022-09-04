@@ -14,7 +14,7 @@
 		E63FDE2628C2FD6600CD32F8 /* CustomKeyboard.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E63FDE2428C2FD6600CD32F8 /* CustomKeyboard.xcdatamodeld */; };
 		E63FDE2828C2FD6700CD32F8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E63FDE2728C2FD6700CD32F8 /* Assets.xcassets */; };
 		E63FDE2B28C2FD6700CD32F8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E63FDE2928C2FD6700CD32F8 /* LaunchScreen.storyboard */; };
-		E67A86DC28C4663000F3B2DA /* Screen Shot 2022-09-03 at 9.50.14 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = E67A86DB28C4663000F3B2DA /* Screen Shot 2022-09-03 at 9.50.14 PM.png */; };
+		E67A86DE28C4674300F3B2DA /* hodor.png in Resources */ = {isa = PBXBuildFile; fileRef = E67A86DD28C4674300F3B2DA /* hodor.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +27,7 @@
 		E63FDE2728C2FD6700CD32F8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E63FDE2A28C2FD6700CD32F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E63FDE2C28C2FD6700CD32F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E67A86DB28C4663000F3B2DA /* Screen Shot 2022-09-03 at 9.50.14 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2022-09-03 at 9.50.14 PM.png"; sourceTree = "<group>"; };
+		E67A86DD28C4674300F3B2DA /* hodor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hodor.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,7 +68,7 @@
 				E63FDE2928C2FD6700CD32F8 /* LaunchScreen.storyboard */,
 				E63FDE2C28C2FD6700CD32F8 /* Info.plist */,
 				E63FDE2428C2FD6600CD32F8 /* CustomKeyboard.xcdatamodeld */,
-				E67A86DB28C4663000F3B2DA /* Screen Shot 2022-09-03 at 9.50.14 PM.png */,
+				E67A86DD28C4674300F3B2DA /* hodor.png */,
 			);
 			path = CustomKeyboard;
 			sourceTree = "<group>";
@@ -132,8 +132,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				E63FDE2B28C2FD6700CD32F8 /* LaunchScreen.storyboard in Resources */,
+				E67A86DE28C4674300F3B2DA /* hodor.png in Resources */,
 				E63FDE2828C2FD6700CD32F8 /* Assets.xcassets in Resources */,
-				E67A86DC28C4663000F3B2DA /* Screen Shot 2022-09-03 at 9.50.14 PM.png in Resources */,
 				E63FDE2328C2FD6600CD32F8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
