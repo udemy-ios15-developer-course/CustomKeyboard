@@ -44,7 +44,9 @@ class KeyboardViewController: UIInputViewController {
     
     @objc
     func hodorTapped() {
-        print("Hodor Tapped")
+        let proxy = self.textDocumentProxy as UITextDocumentProxy
+        proxy.insertText("HODOR! ")
+        
     }
     
     override func viewWillLayoutSubviews() {
